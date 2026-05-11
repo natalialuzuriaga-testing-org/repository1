@@ -1,2 +1,2 @@
 # repository1
-Contains PRs and Issues
+This is a test repository which will contain PRs and Issues!
