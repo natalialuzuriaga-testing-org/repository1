@@ -1,0 +1,45 @@
+{
+  "name": "repository1",
+  "version": "1.0.0",
+  "description": "Contains PRs and Issues",
+  "status": "",
+  "permissions": {
+    "licenses": [],
+    "usageType": [
+      "openSource"
+    ],
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/natalialuzuriaga-testing-org/repository1",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
+  "vcs": "git",
+  "laborHours": 806,
+  "reuseFrequency": {
+    "forks": 1,
+    "clones": 0
+  },
+  "languages": [],
+  "maintenance": "",
+  "contractNumber": [],
+  "SBOM": "https://github.com/natalialuzuriaga-testing-org/repository1/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
+  "date": {
+    "created": "2026-05-11T23:09:04Z",
+    "lastModified": "2026-05-11T23:11:05Z",
+    "metadataLastUpdated": "2026-11-12T19:48:40.171Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "feedbackMechanism": "https://github.com/natalialuzuriaga-testing-org/repository1/issues",
+  "AIUseCaseID": "0"
+}
